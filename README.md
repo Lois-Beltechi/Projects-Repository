@@ -1,16 +1,34 @@
-### Hi there 👋
+Projects done for university.
 
-<!--
-**921-Beltechi-Lois/921-Beltechi-Lois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First Year
+<ul>
+  <li>1<sup>st</sup> Semester</li>
+  <ul>
+    <li><a href="https://github.com/921-Beltechi-Lois/Fundamentals-of-Programming">Fundamentals of Programming</a></li>
+  </ul>
+  <li>2<sup>nd</sup> Semester</li>
+  <ul>
+    <li><a href="n/a">Data Structures and Algorithms</a></li>
+    <li><a href="n/a">Graph Algorithms</a></li>
+    <li><a href="n/a">Object Oriented Programming</a></li>
+  </ul>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Second Year
+<ul>
+  <li>3<sup>rd</sup> Semester</li>
+  <ul>
+    <li><a href="n/a">Advanced Programming Methods</a></li>
+    <li><a href="n/a">Databases</a></li>
+    <li><a href="n/a">Logical and Functional Programming</a></li>
+    <li><a href="n/a">Probability and Statistics</a></li>
+  </ul>
+  <li>4<sup>th</sup> Semester</li>
+  <ul>
+    <li><a href="n/a">Artificial Intelligence</a></li>
+    <li><a href="n/a">Web Programming</a></li>
+    <li><a href="n/a">Database Management Systems</a></li>
+    <li><a href="n/a">Systems for Design and Implementation</a></li>
+  </ul>
+</ul>
+  
