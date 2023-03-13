@@ -10,7 +10,7 @@ Relevant projects done for university.
   <ul>
     <li><a href="https://github.com/921-Beltechi-Lois/Data-Structures-and-Algorithms">Data Structures and Algorithms</a></li>
     <li><a href="n/a">Graph Algorithms</a></li>
-    <li><a href="n/a">Object Oriented Programming</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Object-Oriented-Programming">Object Oriented Programming</a></li>
   </ul>
 </ul>
 
