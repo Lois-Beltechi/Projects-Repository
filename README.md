@@ -8,7 +8,7 @@ Projects done for university.
   </ul>
   <li>2<sup>nd</sup> Semester</li>
   <ul>
-    <li><a href="n/a">Data Structures and Algorithms</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Data-Structures-and-Algorithms">Data Structures and Algorithms</a></li>
     <li><a href="n/a">Graph Algorithms</a></li>
     <li><a href="n/a">Object Oriented Programming</a></li>
   </ul>
