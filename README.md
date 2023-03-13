@@ -25,7 +25,7 @@ Relevant projects done for university.
   </ul>
   <li>4<sup>th</sup> Semester</li>
   <ul>
-    <li><a href="n/a">Artificial Intelligence</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Artificial-Intelligence">Artificial Intelligence</a></li>
     <li><a href="n/a">Web Programming</a></li>
     <li><a href="n/a">Database Management Systems</a></li>
     <li><a href="https://github.com/921-Beltechi-Lois/Systems-for-Design-and-Implementation">Systems for Design and Implementation</a></li>
