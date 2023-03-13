@@ -20,7 +20,7 @@ Relevant projects done for university.
   <ul>
     <li><a href="https://github.com/921-Beltechi-Lois/Advanced-Programming-Methods">Advanced Programming Methods</a></li>
     <li><a href="https://github.com/921-Beltechi-Lois/Databases">Databases</a></li>
-    <li><a href="n/a">Logical and Functional Programming</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Logical-and-Functional-Programming">Logical and Functional Programming</a></li>
     <li><a href="n/a">Probability and Statistics</a></li>
   </ul>
   <li>4<sup>th</sup> Semester</li>
