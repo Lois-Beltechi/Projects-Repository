@@ -18,7 +18,7 @@ Relevant projects done for university.
 <ul>
   <li>3<sup>rd</sup> Semester</li>
   <ul>
-    <li><a href="n/a">Advanced Programming Methods</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Advanced-Programming-Methods">Advanced Programming Methods</a></li>
     <li><a href="n/a">Databases</a></li>
     <li><a href="n/a">Logical and Functional Programming</a></li>
     <li><a href="n/a">Probability and Statistics</a></li>
