@@ -32,6 +32,7 @@ Relevant projects done for university.
     <li><a href="n/a">Web Programming</a></li>
     <li><a href="n/a">Database Management Systems</a></li>
     <li><a href="https://github.com/921-Beltechi-Lois/Systems-for-Design-and-Implementation">Systems for Design and Implementation</a></li>
+    <li><a href="https://github.com/921-Beltechi-Lois/Software-Engineering-Web-App-Project">Software Engineering</a></li>
   </ul>
 </ul>
   
