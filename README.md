@@ -1,4 +1,4 @@
-Relevant projects done for university.
+Relevant projects
 
 ### First Year
 <ul>
